@@ -37,4 +37,5 @@ Restaurant Rush is a text-based cooking game built with Python and Tkinter. Play
 
 ![python_3PMg0PeGpQ](https://github.com/user-attachments/assets/9188b846-e68d-4191-9164-954d70ae60c2)
 
+![python_fVMdSjMYPX](https://github.com/user-attachments/assets/12498d7b-79ae-45a8-a2f9-e502109d8a92)
 
